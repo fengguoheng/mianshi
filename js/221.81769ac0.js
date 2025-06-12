@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkavatarvue2"]=self["webpackChunkavatarvue2"]||[]).push([[221],{3221:function(u,a,e){e.r(a);var l,n,t=e(1656),r={},s=(0,t.A)(r,l,n,!1,null,null,null);a["default"]=s.exports}}]);
+//# sourceMappingURL=221.81769ac0.js.map
